@@ -14,7 +14,7 @@ En este curso aprenderás sobre
 
 * Estructura de Datos en Pandas
 
-* Estadístico en Pandas
+* Estadística en Pandas
 
 * Matplotlib
 
@@ -24,9 +24,9 @@ En este curso aprenderás sobre
 
 * Funciones
 
-* Clases y objetos
-
 * Transformación de Datos con Scikit-Learn
+
+* Introducción a matemática simbólica
 
 
 
