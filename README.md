@@ -20,14 +20,21 @@ NumPy es una biblioteca para el lenguaje de programación Python que da soporte 
     
 ## Estructura de Datos en Pandas
 
-Pandas es una biblioteca de software escrita como extensión de NumPy para manipulación y análisis de datos para el lenguaje de programación Python. En particular, ofrece estructuras de datos y operaciones para manipular tablas numéricas y series temporales. Es un software libre distribuido bajo la licencia BSD versión tres cláusulas.1​ El nombre deriva del término "datos de panel", término de econometría que designa datos que combinan una dimensión temporal con otra dimensión transversal.
+Pandas es una biblioteca de software escrita como extensión de NumPy para manipulación y análisis de datos para el lenguaje de programación Python. En particular, ofrece estructuras de datos y operaciones para manipular tablas numéricas y series temporales. El nombre deriva del término "datos de panel", término de econometría que designa datos que combinan una dimensión temporal con otra dimensión transversal.
 
+1. [Quickstart tutorial](https://pypi.org/project/pandas/)
 
 ## Estadística en Pandas
 
 ## Matplotlib
 
+Matplotlib es una biblioteca para la generación de gráficos a partir de datos contenidos en listas o arrays en el lenguaje de programación Python y su extensión matemática NumPy. Proporciona una API, pylab, diseñada para recordar a la de MATLAB.
+
+1. [Quickstart tutorial](https://matplotlib.org/)
+
 ## Seaborn
+
+1. [Quickstart tutorial](https://seaborn.pydata.org/)
 
 ## Transformación de Datos con Pandas
 
