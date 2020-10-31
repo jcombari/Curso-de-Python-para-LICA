@@ -12,8 +12,10 @@ En este curso aprenderás sobre
 
 * Estructuras de Datos Numpy
 
-https://numpy.org/install/
-** [Quickstart tutorial](https://numpy.org/doc/stable/user/quickstart.html)
+    * https://numpy.org/install/ 
+
+    * [Quickstart tutorial](https://numpy.org/doc/stable/user/quickstart.html)
+    
 * Estructura de Datos en Pandas
 
 * Estadística en Pandas
