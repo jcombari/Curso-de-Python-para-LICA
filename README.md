@@ -12,6 +12,8 @@ En este curso aprenderás sobre
 
 * Estructuras de Datos Numpy
 
+https://numpy.org/install/
+
 * Estructura de Datos en Pandas
 
 * Estadística en Pandas
