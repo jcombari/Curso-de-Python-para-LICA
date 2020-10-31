@@ -21,12 +21,11 @@ Para hacer este curso necesitas
 
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma
 
-* Es un lenguaje simple: El código es simple de leer, de escribir y de mantener.
+* Es un lenguaje simple: ya verás que el código es fácil y simple de leer, de escribir, de entender y de mantener.
 * Es gratuito y es una herramienta de código abierto.
-* Está muy bien documentado.
+* Está muy bien documentado por la comunidad.
 * Es ampliamente usado en la mayoría de las disciplinas científicas
 * Tiene una gran comunidad de usuarios (no todos científicos), por lo que es fácil encontrar ayuda, tutoriales, foros, blogs, etc. por ejemplo en [StackOverflow](https://stackoverflow.com/).
-* Buena performance. Aunque estrictamente es un lenguaje lento (el costo de la simplicidad). Existen formas de acelerarlo.
 * Posee un extenso ecosistema de librerías
 
 En este curso aprenderás sobre
@@ -59,11 +58,15 @@ NumPy es una biblioteca para el lenguaje de programación Python que da soporte 
 
 ## Estructura de Datos en Pandas
 
-Pandas es una biblioteca de software escrita como extensión de NumPy para manipulación y análisis de datos para el lenguaje de programación Python. En particular, ofrece estructuras de datos y operaciones para manipular tablas numéricas y series temporales. El nombre deriva del término "datos de panel", término de econometría que designa datos que combinan una dimensión temporal con otra dimensión transversal.
+En esta clase aprenderemos hacer análisis de datos, utilizando una librería llamada Pandas que proporciona unas estructuras de datos flexibles y que permiten trabajar con ellos de forma muy eficiente.
+
+[Pandas](https://es.wikipedia.org/wiki/Pandas) es una biblioteca de software escrita como extensión de NumPy para manipulación y análisis de datos para el lenguaje de programación Python. En particular, ofrece estructuras de datos y operaciones para manipular tablas numéricas y series temporales. El nombre deriva del término "datos de panel", término de econometría que designa datos que combinan una dimensión temporal con otra dimensión transversal.
 
 * [Quickstart tutorial](https://pypi.org/project/pandas/)
 
 ## Estadística en Pandas
+
+Aprenderemos a trabajar valores nulos, valores no nulos , medidas de tendencia central y distribución percentílica.
 
 ## Matplotlib
 
@@ -93,9 +96,13 @@ def nombre(parámetros):
 
 ## Transformación de Datos con Scikit-Learn
 
+En esta clase  aprenderemos a implementar un modelo de Regresión Lineal, y analizaremos sus parámetros básicos...
+
 [Scikit-learn](https://sklearn.org/) es una biblioteca para aprendizaje automático de software libre para el lenguaje de programación Python.1​Incluye varios algoritmos de clasificación, regresión y análisis de grupos entre los cuales están máquinas de vectores de soporte, bosques aleatorios, Gradient boosting, K-means y DBSCAN. Está diseñada para interoperar con las bibliotecas numéricas y científicas NumPy y SciPy.
 
 ## Cálculo simbólico con Sympy 
+
+Repasaremos algunos ejercicios de ecuaciones del álgebra de Baldor.
 
 [SymPy](https://es.wikipedia.org/wiki/SymPy) es una biblioteca escrita en Python cuyo objetivo es reunir todas las características de un sistema de álgebra computacional (CAS), ser fácilmente extensible y mantener el código todo lo simple que sea posible. SymPy no requiere ninguna biblioteca externa, salvo para soporte gráfico.
 
