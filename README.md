@@ -1,6 +1,12 @@
 # Curso de Python
 
-Hola! Bienvenido!
+Hola! 
+
+Bienvenido!  
+
+En este curso te brindaremos herramientas de acompañamiento para tu transformación digital.
+
+Nuestro objetivo es que de la mano con la [LICA](https://www.linkedin.com/in/edithbroncancio/) por empoderar a las personas para ser protagonistas de la transformación del mundo.
 
 ## ¿Qué es Python?
 
