@@ -25,7 +25,7 @@ Python es un lenguaje de programación interpretado cuya filosofía hace hincapi
 * Es gratuito y es una herramienta de código abierto.
 * Está muy bien documentado.
 * Es ampliamente usado en la mayoría de las disciplinas científicas
-* Tiene una gran comunidad de usuarios (no todos científicos), por lo que es fácil encontrar ayuda, tutoriales, foros, blogs, etc. por ejemplo en StackOverflow.
+* Tiene una gran comunidad de usuarios (no todos científicos), por lo que es fácil encontrar ayuda, tutoriales, foros, blogs, etc. por ejemplo en [StackOverflow](https://stackoverflow.com/).
 * Buena performance. Aunque estrictamente es un lenguaje lento (el costo de la simplicidad). Existen formas de acelerarlo.
 * Posee un extenso ecosistema de librerías
 
