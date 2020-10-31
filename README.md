@@ -30,7 +30,7 @@ Python es un lenguaje de programación interpretado cuya filosofía hace hincapi
 
 En este curso aprenderás sobre
 
-## Introducción a Python (### semana 1 y semana 2)
+## Introducción a Python (semana 1 y semana 2)
 
 - **Fácil de usar**
 - **Rápido y eficiente**
