@@ -80,7 +80,10 @@ Seaborn es una biblioteca de visualización de datos de Python basada en matplot
 Aprenderemos a manipular los DataFrame en Pandas, seleccionar datos,  uso de la funcion apply, drop, contruir dataframe "a mano", concatenar dataframe, Join DataFrames, entre muchas otras cosas...
 
 ## Funciones
-Una función es un conjunto de líneas de código agrupadas, que funcionan como una unidad realizando una tarea específica. Puede devolver valores, tener parámetros o argumentos y recibe el nombre de método cuando está definida dentro de una clase.
+
+Aprenderemos a utilizar funcionar para automatizar muchas de las actividades que hemos desarrollado hasta ahora...
+
+Para esto es fundamental aprender la sintaxis básica de las funciones en python:
 
 ```
 def nombre(parámetros):
