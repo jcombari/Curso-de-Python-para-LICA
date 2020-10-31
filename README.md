@@ -21,6 +21,14 @@ Para hacer este curso necesitas
 
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma
 
+* Es un lenguaje simple: El código es simple de leer, de escribir y de mantener.
+* Es gratuito y es una herramienta de código abierto.
+* Está muy bien documentado.
+* Es ampliamente usado en la mayoría de las disciplinas científicas
+* Tiene una gran comunidad de usuarios (no todos científicos), por lo que es fácil encontrar ayuda, tutoriales, foros, blogs, etc. por ejemplo en StackOverflow.
+* Buena performance. Aunque estrictamente es un lenguaje lento (el costo de la simplicidad). Existen formas de acelerarlo.
+* Posee un extenso ecosistema de librerías
+
 En este curso aprenderás sobre
 
 ## Introducción a Python
