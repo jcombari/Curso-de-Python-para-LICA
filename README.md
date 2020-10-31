@@ -6,7 +6,16 @@ Bienvenido!
 
 En este curso te brindaremos herramientas de acompañamiento para tu transformación digital.
 
-Nuestro objetivo es que de la mano con la [LICA](https://www.linkedin.com/in/edithbroncancio/) por empoderar a las personas para ser protagonistas de la transformación del mundo.
+Nuestro objetivo es que de la mano con [LICA](https://www.linkedin.com/in/edithbroncancio/) podamos empoderar a las personas con autismo para que tambien se conviertan en  protagonistas de la transformación del mundo mediante su inclusión laboral.
+
+## ¿Qué cualidades debes tener para hacer este curso?
+
+Para hacer este curso necesitas
+
+* Pasión por aprender
+* Motivación y curiosidad por hacer
+* Flexibilidad para colaborar con tus compañeros
+* Practicar la premisa "aprendemos haciendo"
 
 ## ¿Qué es Python?
 
