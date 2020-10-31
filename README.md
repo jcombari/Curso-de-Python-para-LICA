@@ -69,11 +69,11 @@ Pandas es una biblioteca de software escrita como extensión de NumPy para manip
 
 Matplotlib es una biblioteca para la generación de gráficos a partir de datos contenidos en listas o arrays en el lenguaje de programación Python y su extensión matemática NumPy. Proporciona una API, pylab, diseñada para recordar a la de MATLAB.
 
-1. [Quickstart tutorial](https://matplotlib.org/)
+*  [Quickstart tutorial](https://matplotlib.org/)
 
 ## Seaborn
-
-1. [Quickstart tutorial](https://seaborn.pydata.org/)
+Seaborn es una biblioteca de visualización de datos de Python basada en matplotlib. Proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos e informativos.
+* [Quickstart tutorial](https://seaborn.pydata.org/)
 
 ## Transformación de Datos con Pandas
 
@@ -81,7 +81,12 @@ Matplotlib es una biblioteca para la generación de gráficos a partir de datos 
 
 ## Transformación de Datos con Scikit-Learn
 
-## Introducción a matemática simbólica
+[Scikit-learn](https://sklearn.org/) es una biblioteca para aprendizaje automático de software libre para el lenguaje de programación Python.1​Incluye varios algoritmos de clasificación, regresión y análisis de grupos entre los cuales están máquinas de vectores de soporte, bosques aleatorios, Gradient boosting, K-means y DBSCAN. Está diseñada para interoperar con las bibliotecas numéricas y científicas NumPy y SciPy.
+
+## Cálculo simbólico con Sympy 
+
+[SymPy](https://es.wikipedia.org/wiki/SymPy) es una biblioteca escrita en Python cuyo objetivo es reunir todas las características de un sistema de álgebra computacional (CAS), ser fácilmente extensible y mantener el código todo lo simple que sea posible. SymPy no requiere ninguna biblioteca externa, salvo para soporte gráfico.
+
 
 
 
