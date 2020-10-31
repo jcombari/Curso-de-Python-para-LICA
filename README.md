@@ -69,13 +69,17 @@ En esta clase aprenderemos hacer análisis de datos, utilizando una librería ll
 Aprenderemos a trabajar valores nulos, valores no nulos , medidas de tendencia central y distribución percentílica.
 
 ## Matplotlib
+Ya haz aprendido a analizar datos, ahora vamos a visualizarlos!, Matplotlib será la primera de las librerías que utilizaremos para este fin...
 
 Matplotlib es una biblioteca para la generación de gráficos a partir de datos contenidos en listas o arrays en el lenguaje de programación Python y su extensión matemática NumPy. Proporciona una API, pylab, diseñada para recordar a la de MATLAB.
 
 *  [Quickstart tutorial](https://matplotlib.org/)
 
 ## Seaborn
+Aprenderas a utilizar una segunda herramienta de visualización... te encantará...
+
 Seaborn es una biblioteca de visualización de datos de Python basada en matplotlib. Proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos e informativos.
+
 * [Quickstart tutorial](https://seaborn.pydata.org/)
 
 ## Transformación de Datos con Pandas
@@ -84,7 +88,7 @@ Aprenderemos a manipular los DataFrame en Pandas, seleccionar datos,  uso de la 
 
 ## Funciones
 
-Aprenderemos a utilizar funcionar para automatizar muchas de las actividades que hemos desarrollado hasta ahora...
+Aprenderemos a utilizar funciones para automatizar muchas de las actividades que hemos desarrollado hasta ahora...
 
 Para esto es fundamental aprender la sintaxis básica de las funciones en python:
 
@@ -105,10 +109,3 @@ En esta clase  aprenderemos a implementar un modelo de Regresión Lineal, y anal
 Repasaremos algunos ejercicios de ecuaciones del álgebra de Baldor.
 
 [SymPy](https://es.wikipedia.org/wiki/SymPy) es una biblioteca escrita en Python cuyo objetivo es reunir todas las características de un sistema de álgebra computacional (CAS), ser fácilmente extensible y mantener el código todo lo simple que sea posible. SymPy no requiere ninguna biblioteca externa, salvo para soporte gráfico.
-
-
-
-
-
-
-
