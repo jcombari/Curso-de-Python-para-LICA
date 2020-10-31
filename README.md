@@ -8,9 +8,9 @@ Python es un lenguaje de programación interpretado cuya filosofía hace hincapi
 
 En este curso aprenderás sobre
 
-* Introducción a Python
+## Introducción a Python
 
-* Estructuras de Datos Numpy
+## Estructuras de Datos Numpy
 
 NumPy es una biblioteca para el lenguaje de programación Python que da soporte para crear vectores y matrices grandes multidimensionales, junto con una gran colección de funciones matemáticas de alto nivel para operar con ellas. El precursor de NumPy, Numeric, fue creado originalmente por Jim Hugunin con contribuciones de varios otros desarrolladores. En 2005, Travis Oliphant creó NumPy incorporando características de la competencia Numarray en Numeric, con amplias modificaciones. NumPy es un software de código abierto y cuenta con muchos colaboradores.
 
@@ -18,15 +18,15 @@ NumPy es una biblioteca para el lenguaje de programación Python que da soporte 
 
 1. [Quickstart tutorial](https://numpy.org/doc/stable/user/quickstart.html)
     
-* Estructura de Datos en Pandas
+## Estructura de Datos en Pandas
 
-* Estadística en Pandas
+## Estadística en Pandas
 
-* Matplotlib
+## Matplotlib
 
-* Seaborn
+## Seaborn
 
-* Transformación de Datos con Pandas
+## Transformación de Datos con Pandas
 
 * Funciones
 
