@@ -61,7 +61,7 @@ NumPy es una biblioteca para el lenguaje de programación Python que da soporte 
 
 Pandas es una biblioteca de software escrita como extensión de NumPy para manipulación y análisis de datos para el lenguaje de programación Python. En particular, ofrece estructuras de datos y operaciones para manipular tablas numéricas y series temporales. El nombre deriva del término "datos de panel", término de econometría que designa datos que combinan una dimensión temporal con otra dimensión transversal.
 
-1. [Quickstart tutorial](https://pypi.org/project/pandas/)
+* [Quickstart tutorial](https://pypi.org/project/pandas/)
 
 ## Estadística en Pandas
 
