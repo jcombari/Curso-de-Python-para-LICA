@@ -38,11 +38,11 @@ Matplotlib es una biblioteca para la generación de gráficos a partir de datos 
 
 ## Transformación de Datos con Pandas
 
-* Funciones
+## Funciones
 
-* Transformación de Datos con Scikit-Learn
+## Transformación de Datos con Scikit-Learn
 
-* Introducción a matemática simbólica
+## Introducción a matemática simbólica
 
 
 
