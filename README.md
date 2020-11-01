@@ -45,7 +45,7 @@ Conoceremos un lenguaje de programación que viene con
 
 ## Estructuras de Datos Numpy (semana 3)
 
-Esta semana Comenzaremos revisando la librería [Numpy](https://es.wikipedia.org/wiki/NumPy), que nos facilita bastante la vida.
+Esta semana comenzaremos revisando la librería [Numpy](https://es.wikipedia.org/wiki/NumPy), que nos facilita bastante la vida.
 
 ¿Por qué usar NumPy?
 
