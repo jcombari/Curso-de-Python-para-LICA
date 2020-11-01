@@ -45,7 +45,10 @@ Conoceremos un lenguaje de programación que viene con
 
 ## Estructuras de Datos Numpy (semana 3)
 
+Comenzaremos revisando librería [Numpy](https://es.wikipedia.org/wiki/NumPy), que nos facilita bastante la vid1.
+
 ¿Por qué usar NumPy?
+
 * Para trabajar con arreglos.
 * Para Ordenar los miembros de un arreglo.
 * Para realizar Operaciones matemáticas y lógicas.
