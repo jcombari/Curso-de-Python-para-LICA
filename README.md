@@ -1,8 +1,6 @@
 # Curso de Python
 
-Hola! 
-
-Bienvenido!  
+Hola!  Bienvenido!  
 
 En este curso te brindaremos herramientas de acompañamiento para tu transformación digital.
 
