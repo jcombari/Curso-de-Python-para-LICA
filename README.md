@@ -4,7 +4,7 @@ Hola!  Bienvenido!
 
 En este curso te brindaremos herramientas de acompañamiento para tu transformación digital.
 
-Nuestro objetivo es que de la mano con [LICA](https://www.linkedin.com/in/edithbroncancio/) podamos aportar en la inclusión laboral de las personas con autismo para que tambien se conviertan en protagonistas de la transformación del mundo.
+Nuestro objetivo es que de la mano con [LICA](https://ligautismo.org/) podamos aportar en la inclusión laboral de las personas con autismo para que tambien se conviertan en protagonistas de la transformación del mundo.
 
 ## ¿Qué cualidades debes tener para hacer este curso?
 
