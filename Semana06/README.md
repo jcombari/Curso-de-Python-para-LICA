@@ -1,1 +1,1 @@
-# Semana 6
+# Semana 6 Matplotlib

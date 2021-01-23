@@ -1,1 +1,3 @@
-# Semana 12
+# Semana 12 Cálculo simbólico con Sympy
+
+
