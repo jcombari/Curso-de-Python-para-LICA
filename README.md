@@ -28,7 +28,7 @@ Python es un lenguaje de programación interpretado cuya filosofía hace hincapi
 
 En este curso aprenderás sobre
 
-## Introducción a Python (semana 1 y semana 2)
+## Introducción a Python (semana 1: sábado 27 de febrero de 2021 y semana 2: sábado 06 de marzo de 2021)
 
 - **Fácil de usar**
 - **Rápido y eficiente**
@@ -41,7 +41,7 @@ Conoceremos un lenguaje de programación que viene con
 * Estructuras de datos.  Listas!
 * Funciones propias, como print(), type()
 
-## Estructuras de Datos Numpy (semana 3)
+## Estructuras de Datos Numpy (semana 3: sábado 13 de marzo de 2021)
 
 Esta semana comenzaremos revisando la librería [Numpy](https://es.wikipedia.org/wiki/NumPy), que nos facilita bastante la vida.
 
@@ -63,7 +63,7 @@ NumPy es una biblioteca para el lenguaje de programación Python que da soporte 
 - **Report a security vulnerability:** https://tidelift.com/docs/security
     
 
-## Estructura de Datos en Pandas (semana 4)
+## Estructura de Datos en Pandas (semana 4: sábado 20 de marzo de 2021)
 
 En esta clase aprenderemos hacer análisis de datos, utilizando una librería llamada Pandas que proporciona unas estructuras de datos flexibles y que permiten trabajar con ellos de forma muy eficiente.
 
@@ -71,7 +71,15 @@ En esta clase aprenderemos hacer análisis de datos, utilizando una librería ll
 
 * [Quickstart tutorial](https://pypi.org/project/pandas/)
 
-## Estadística en Pandas (semana 5)
+## Semana de repaso (sábado 27 de marzo de 2021)
+
+En esta semana no numerada, vamos a realizar una revisión de las 4 primeras clases.
+
+## Semana de integración (sábado 10 de abril de 2021)
+
+En esta semana no numerada, vamos a realizar un ejercicio de integración de la mano con Lica.
+
+## Estadística en Pandas (semana 5: sábado 17 de abril de 2021)
 
 Aprenderemos a trabajar valores nulos, valores no nulos , medidas de tendencia central y distribución percentílica.
 

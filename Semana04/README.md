@@ -1,4 +1,4 @@
-# Semana 4 Estructura de Datos en Pandas
+# Semana 4 Estructura de Datos en Pandas - Sábado 20 de marzo de 2020
 
 
 En esta clase aprenderemos hacer análisis de datos, utilizando una librería llamada Pandas que proporciona unas estructuras de datos flexibles y que permiten trabajar con ellos de forma muy eficiente.
