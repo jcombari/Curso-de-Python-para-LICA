@@ -4,7 +4,7 @@
 
 Integrantes:
 
-* Daniel Espinoza
+* <b> Daniel Espinoza </b>
 
 * Juan Trejos
 
