@@ -10,4 +10,4 @@ Los participantes van a presentar su proyecto:
 
 * Proyecto 3: Construir un ChatBot con Python
 
-* Proyecto 4: Construir un código que te permite pasar de texto a voz con Python
+* Proyecto 4: Construir un código que  permita pasar de texto a voz con Python
