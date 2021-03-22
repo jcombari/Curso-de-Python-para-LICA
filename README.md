@@ -26,6 +26,8 @@ Python es un lenguaje de programación interpretado cuya filosofía hace hincapi
 * Tiene una gran comunidad de usuarios (no todos científicos), por lo que es fácil encontrar ayuda, tutoriales, foros, blogs, etc. por ejemplo en [StackOverflow](https://stackoverflow.com/).
 * Posee un extenso ecosistema de librerías
 
+El repositorio de los video del curso lo encuentras haciendo clic en el [link](https://www.youtube.com/playlist?list=PLCtB31P9RqRcVWvmrdQoVZCcA_Q8lVZ-w).
+
 En este curso aprenderás sobre
 
 ## [Introducción a Python (semana 1: sábado 27 de febrero de 2021 ](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana01) y [semana 2: sábado 06 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana02)
