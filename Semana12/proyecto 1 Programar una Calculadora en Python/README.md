@@ -4,8 +4,7 @@ El objetivo de este proyecto es crear una aplicaciones que permita obtener una c
 
 Integrantes:
 
-* Rafael Parga
-
+* <b> Rafael Parga </b>
 * Guillermo Cruz
 
 ## Link de referencia
