@@ -1,6 +1,6 @@
 # APLICACIONES-PYTHON
 
-El objetivo de este proyecto es crear una aplicaciones que permita obtener un calculadora.
+El objetivo de este proyecto es crear una aplicaciones que permita obtener una calculadora.
 
 * [Link de referencia en github](https://github.com/antonioam82/Calcu) 
 
