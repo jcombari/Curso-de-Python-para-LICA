@@ -4,7 +4,7 @@
 
 Integrantes:
 
-* Jhon Chinome
+* <b> Jhon Chinome </b>
 
 * Daniela Barrera
 
