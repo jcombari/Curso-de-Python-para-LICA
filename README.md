@@ -28,7 +28,7 @@ Python es un lenguaje de programación interpretado cuya filosofía hace hincapi
 
 En este curso aprenderás sobre
 
-## [Introducción a Python (semana 1: sábado 27 de febrero de 2021 ](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana01)[y semana 2: sábado 06 de marzo de 2021](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana02)
+## [Introducción a Python (semana 1: sábado 27 de febrero de 2021 ](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana01) y [semana 2: sábado 06 de marzo de 2021](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana02)
 
 - **Fácil de usar**
 - **Rápido y eficiente**
