@@ -6,7 +6,7 @@ Integrantes:
 
 * Jhon Chinome
 
-* Daniela Espinoza 
+* Daniela Barrera
 
 * Santiago Nuñez
 
