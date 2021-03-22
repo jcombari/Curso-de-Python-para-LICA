@@ -5,8 +5,10 @@ En esta semana se dará cierre al curso de python.
 Puntos que se evaluarán:
 
 1.- Redacción de la explicación de la solución en Markdown.
-2.- Explicación del código en python durante la presentación.
-3.- Explicación de la usabilidad de la solución presentada.
+
+3.- Explicación del código en python durante la presentación.
+
+4.- Explicación de la usabilidad de la solución presentada.
 
 Los participantes van a presentar su proyecto:
 
