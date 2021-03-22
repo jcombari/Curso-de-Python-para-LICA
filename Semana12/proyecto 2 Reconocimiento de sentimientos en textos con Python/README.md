@@ -5,7 +5,7 @@
 
 Integrantes:
 
-* Luis Mojica
+* <b> Luis Mojica </b>
 
 * Karol Tuberquia
 
