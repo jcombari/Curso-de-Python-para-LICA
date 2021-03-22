@@ -1,5 +1,9 @@
-# Semana 12 Cálculo simbólico con Sympy
+# Semana 12 Presentación de proyectos
 
-Repasaremos algunos ejercicios de ecuaciones del álgebra de Baldor.
+En esta semana se dará cierre al curso de python.
 
-[SymPy](https://es.wikipedia.org/wiki/SymPy) es una biblioteca escrita en Python cuyo objetivo es reunir todas las características de un sistema de álgebra computacional (CAS), ser fácilmente extensible y mantener el código todo lo simple que sea posible. SymPy no requiere ninguna biblioteca externa, salvo para soporte gráfico.
+Los participantes van a presentar su proyecto:
+
+* Proyecto 1: 
+
+* Proyecto 2:
