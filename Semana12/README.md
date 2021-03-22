@@ -2,6 +2,12 @@
 
 En esta semana se dará cierre al curso de python.
 
+Puntos que se evaluarán:
+
+1.- Redacción de la explicación de la solución en Markdown.
+2.- Explicación del código en python durante la presentación.
+3.- Explicación de la usabilidad de la solución presentada.
+
 Los participantes van a presentar su proyecto:
 
 * [Proyecto 1:](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana12/proyecto%201%20Programar%20una%20Calculadora%20en%20Python) Programar una Calculadora en Python
