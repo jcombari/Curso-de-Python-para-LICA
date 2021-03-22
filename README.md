@@ -41,7 +41,7 @@ Conoceremos un lenguaje de programación que viene con
 * Estructuras de datos.  Listas!
 * Funciones propias, como print(), type()
 
-## Estructuras de Datos Numpy (semana 3: sábado 13 de marzo de 2021)
+## [Estructuras de Datos Numpy (semana 3: sábado 13 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana02)
 
 Esta semana comenzaremos revisando la librería [Numpy](https://es.wikipedia.org/wiki/NumPy), que nos facilita bastante la vida.
 
