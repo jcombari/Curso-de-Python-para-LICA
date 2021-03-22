@@ -6,7 +6,7 @@ Los participantes van a presentar su proyecto:
 
 * [Proyecto 1:](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana12/proyecto%201%20Programar%20una%20Calculadora%20en%20Python) Programar una Calculadora en Python
 
-* Proyecto 2: Reconocimiento de sentimientos en textos con Python
+* [Proyecto 2:](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana12/proyecto%202%20Reconocimiento%20de%20sentimientos%20en%20textos%20con%20Python) Reconocimiento de sentimientos en textos con Python
 
 * Proyecto 3: Construir un ChatBot con Python
 
