@@ -7,7 +7,7 @@ Integrantes:
 
 * Luis Mojica
 
-* Karo Tuberquia
+* Karol Tuberquia
 
 ## Material de apoyo
 
