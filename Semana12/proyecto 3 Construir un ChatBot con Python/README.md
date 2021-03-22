@@ -1,6 +1,6 @@
 # APLICACIONES-PYTHON
 
-##  El objetivo de este proyecto es crear código en python que permita Pasar de texto a voz
+##  El objetivo de este proyecto es crear código en python que permita construir un ChatBot
 
 Integrantes:
 
