@@ -4,7 +4,7 @@ En esta semana se dará cierre al curso de python.
 
 Los participantes van a presentar su proyecto:
 
-* Proyecto 1: Programar una Calculadora en Python
+* [Proyecto 1:](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana12/proyecto%201%20Programar%20una%20Calculadora%20en%20Python) Programar una Calculadora en Python
 
 * Proyecto 2: Reconocimiento de sentimientos en textos con Python
 
