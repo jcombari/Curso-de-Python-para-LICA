@@ -6,3 +6,8 @@ El objetivo de este proyecto es crear una aplicaciones que permita obtener una c
 
 * [Link de referencia en youtube](https://www.youtube.com/watch?v=nh0Jeclyvt8&t=375s) 
 
+Integrantes:
+
+* Rafael Parga
+
+* Guillermo Cruz
