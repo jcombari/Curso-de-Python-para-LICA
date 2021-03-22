@@ -82,29 +82,29 @@ En esta semana no numerada, vamos a realizar una revisión de las 4 primeras cla
 
 En esta semana no numerada, vamos a realizar un ejercicio de integración de la mano con Lica.
 
-## Estadística en Pandas (semana 5: sábado 17 de abril de 2021)
+## [Estadística en Pandas (semana 5: sábado 17 de abril de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana05)
 
 Aprenderemos a trabajar valores nulos, valores no nulos , medidas de tendencia central y distribución percentílica.
 
-## Matplotlib (semana 6)
+## [Matplotlib (semana 6)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana06)
 Ya haz aprendido a analizar datos, ahora vamos a visualizarlos!, Matplotlib será la primera de las librerías que utilizaremos para este fin...
 
 Matplotlib es una biblioteca para la generación de gráficos a partir de datos contenidos en listas o arrays en el lenguaje de programación Python y su extensión matemática NumPy. Proporciona una API, pylab, diseñada para recordar a la de MATLAB.
 
 *  [Quickstart tutorial](https://matplotlib.org/)
 
-## Seaborn (semana 6)
+## [Seaborn (semana 6)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana06)
 Aprenderas a utilizar una segunda herramienta de visualización... te encantará...
 
 Seaborn es una biblioteca de visualización de datos de Python basada en matplotlib. Proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos e informativos.
 
 * [Quickstart tutorial](https://seaborn.pydata.org/)
 
-## Transformación de Datos con Pandas (semana 7)
+## [Transformación de Datos con Pandas (semana 7)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana07)
 
 Aprenderemos a manipular los DataFrame en Pandas, seleccionar datos,  uso de la funcion apply, drop, contruir dataframe "a mano", concatenar dataframe, Join DataFrames, entre muchas otras cosas...
 
-## Funciones (semana 8)
+## [Funciones (semana 8)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana08)
 
 Aprenderemos a utilizar funciones para automatizar muchas de las actividades que hemos desarrollado hasta ahora...
 
@@ -116,18 +116,18 @@ def nombre(parámetros):
     return(opcional)
 ```
 
-## Transformación de Datos con Scikit-Learn (semana 9  y 10)
+## [Transformación de Datos con Scikit-Learn (semana 9  y 10)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana09)
 
 En esta clase  aprenderemos a implementar un modelo de Regresión Lineal, y analizaremos sus parámetros básicos...
 
 [Scikit-learn](https://sklearn.org/) es una biblioteca para aprendizaje automático de software libre para el lenguaje de programación Python.1​Incluye varios algoritmos de clasificación, regresión y análisis de grupos entre los cuales están máquinas de vectores de soporte, bosques aleatorios, Gradient boosting, K-means y DBSCAN. Está diseñada para interoperar con las bibliotecas numéricas y científicas NumPy y SciPy.
 
-## Cálculo simbólico con Sympy (semana 11 )
+## [Cálculo simbólico con Sympy (semana 11)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana11)
 
 Repasaremos algunos ejercicios de ecuaciones del álgebra de Baldor.
 
 [SymPy](https://es.wikipedia.org/wiki/SymPy) es una biblioteca escrita en Python cuyo objetivo es reunir todas las características de un sistema de álgebra computacional (CAS), ser fácilmente extensible y mantener el código todo lo simple que sea posible. SymPy no requiere ninguna biblioteca externa, salvo para soporte gráfico.
 
-## Presentación de proyectos (semana 12)
+## [Presentación de proyectos (semana 12)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana12)
 
 En esta semana los participantes presentaran los proyectos asignados.
