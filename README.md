@@ -119,8 +119,12 @@ En esta clase  aprenderemos a implementar un modelo de Regresión Lineal, y anal
 
 [Scikit-learn](https://sklearn.org/) es una biblioteca para aprendizaje automático de software libre para el lenguaje de programación Python.1​Incluye varios algoritmos de clasificación, regresión y análisis de grupos entre los cuales están máquinas de vectores de soporte, bosques aleatorios, Gradient boosting, K-means y DBSCAN. Está diseñada para interoperar con las bibliotecas numéricas y científicas NumPy y SciPy.
 
-## Cálculo simbólico con Sympy (semana 11 y 12)
+## Cálculo simbólico con Sympy (semana 11 )
 
 Repasaremos algunos ejercicios de ecuaciones del álgebra de Baldor.
 
 [SymPy](https://es.wikipedia.org/wiki/SymPy) es una biblioteca escrita en Python cuyo objetivo es reunir todas las características de un sistema de álgebra computacional (CAS), ser fácilmente extensible y mantener el código todo lo simple que sea posible. SymPy no requiere ninguna biblioteca externa, salvo para soporte gráfico.
+
+## Presentación de proyectos (semana 12)
+
+En esta semana los participantes presentaran los proyectos asignados.
