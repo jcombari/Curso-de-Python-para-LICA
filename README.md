@@ -43,7 +43,7 @@ Conoceremos un lenguaje de programación que viene con
 * Estructuras de datos.  Listas!
 * Funciones propias, como print(), type()
 
-## [Introducción a Python [(semana 2: sábado 06 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana02)
+## [Semana 2: Introducción a Python (sábado 06 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana02)
 
 - **Fácil de usar**
 - **Rápido y eficiente**
