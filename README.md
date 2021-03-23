@@ -30,7 +30,7 @@ El repositorio de los video del curso lo encuentras haciendo clic en el [link](h
 
 En este curso aprenderás sobre
 
-## [Introducción a Python (semana 1: sábado 27 de febrero de 2021 ](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana01) y [semana 2: sábado 06 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana02)
+## [Introducción a Python (semana 1: sábado 27 de febrero de 2021 ](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana01)
 
 - **Fácil de usar**
 - **Rápido y eficiente**
@@ -42,6 +42,19 @@ Conoceremos un lenguaje de programación que viene con
 * Tipos de datos: Número, texto, variables, booleanos, etc...
 * Estructuras de datos.  Listas!
 * Funciones propias, como print(), type()
+
+## [Introducción a Python [semana 2: sábado 06 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana02)
+
+- **Fácil de usar**
+- **Rápido y eficiente**
+- **Gran comunidad online**
+- **Amplia cantidad de librerías específicas**
+
+### Continuemos nuestros primeros pasos con python
+
+* Estructuras de datos.  Listas!
+* Funciones propias, como print(), type()
+
 
 ## [Estructuras de Datos Numpy (semana 3: sábado 13 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana03)
 
