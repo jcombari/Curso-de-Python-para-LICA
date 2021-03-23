@@ -94,14 +94,14 @@ En esta semana no numerada, vamos a realizar un ejercicio de integración de la 
 
 Aprenderemos a trabajar valores nulos, valores no nulos , medidas de tendencia central y distribución percentílica.
 
-## [Semana 6: Matplotlib ](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana06)
+## [Semana 6: Matplotlib-Seaborn](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana06)
+
 Ya haz aprendido a analizar datos, ahora vamos a visualizarlos!, Matplotlib será la primera de las librerías que utilizaremos para este fin...
 
 Matplotlib es una biblioteca para la generación de gráficos a partir de datos contenidos en listas o arrays en el lenguaje de programación Python y su extensión matemática NumPy. Proporciona una API, pylab, diseñada para recordar a la de MATLAB.
 
 *  [Quickstart tutorial](https://matplotlib.org/)
 
-## [Semana 6: Seaborn](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana06)
 Aprenderas a utilizar una segunda herramienta de visualización... te encantará...
 
 Seaborn es una biblioteca de visualización de datos de Python basada en matplotlib. Proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos e informativos.
