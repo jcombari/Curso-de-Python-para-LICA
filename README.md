@@ -108,11 +108,11 @@ Seaborn es una biblioteca de visualización de datos de Python basada en matplot
 
 * [Quickstart tutorial](https://seaborn.pydata.org/)
 
-## [Transformación de Datos con Pandas (semana 7)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana07)
+## [Semana 7: Transformación de Datos con Pandas](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana07)
 
 Aprenderemos a manipular los DataFrame en Pandas, seleccionar datos,  uso de la funcion apply, drop, contruir dataframe "a mano", concatenar dataframe, Join DataFrames, entre muchas otras cosas...
 
-## [Funciones (semana 8)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana08)
+## [Semana 8: Funciones](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana08)
 
 Aprenderemos a utilizar funciones para automatizar muchas de las actividades que hemos desarrollado hasta ahora...
 
@@ -124,11 +124,19 @@ def nombre(parámetros):
     return(opcional)
 ```
 
-## [Transformación de Datos con Scikit-Learn (semana 9  y 10)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana09)
+## [Semana 9: Transformación de Datos con Scikit-Learn](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana09)
 
 En esta clase  aprenderemos a implementar un modelo de Regresión Lineal, y analizaremos sus parámetros básicos...
 
 [Scikit-learn](https://sklearn.org/) es una biblioteca para aprendizaje automático de software libre para el lenguaje de programación Python.1​Incluye varios algoritmos de clasificación, regresión y análisis de grupos entre los cuales están máquinas de vectores de soporte, bosques aleatorios, Gradient boosting, K-means y DBSCAN. Está diseñada para interoperar con las bibliotecas numéricas y científicas NumPy y SciPy.
+
+
+## [Semana 10: Transformación de Datos con Scikit-Learn parte 2](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana10)
+
+En esta clase  aprenderemos a implementar un modelo de Regresión Lineal, y analizaremos sus parámetros básicos...
+
+[Scikit-learn](https://sklearn.org/) es una biblioteca para aprendizaje automático de software libre para el lenguaje de programación Python.1​Incluye varios algoritmos de clasificación, regresión y análisis de grupos entre los cuales están máquinas de vectores de soporte, bosques aleatorios, Gradient boosting, K-means y DBSCAN. Está diseñada para interoperar con las bibliotecas numéricas y científicas NumPy y SciPy.
+
 
 ## [Cálculo simbólico con Sympy (semana 11)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana11)
 
