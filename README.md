@@ -45,18 +45,13 @@ Conoceremos un lenguaje de programación que viene con
 
 ## [Semana 2: Introducción a Python (sábado 06 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana02)
 
-- **Fácil de usar**
-- **Rápido y eficiente**
-- **Gran comunidad online**
-- **Amplia cantidad de librerías específicas**
-
-### Continuemos nuestros primeros pasos con python
+Continuemos nuestros primeros pasos con python
 
 * Estructuras de datos.  Listas!
 * Funciones propias, como print(), type()
 
 
-## [Estructuras de Datos Numpy (semana 3: sábado 13 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana03)
+## [Semana 3: Estructuras de Datos Numpy (sábado 13 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana03)
 
 Esta semana comenzaremos revisando la librería [Numpy](https://es.wikipedia.org/wiki/NumPy), que nos facilita bastante la vida.
 
