@@ -30,7 +30,7 @@ El repositorio de los video del curso lo encuentras haciendo clic en el [link](h
 
 En este curso aprenderás sobre
 
-## [Introducción a Python (semana 1: sábado 27 de febrero de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana01)
+## [Semana 1: Introducción a Python (sábado 27 de febrero de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana01)
 
 - **Fácil de usar**
 - **Rápido y eficiente**
