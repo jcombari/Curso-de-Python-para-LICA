@@ -73,7 +73,7 @@ NumPy es una biblioteca para el lenguaje de programación Python que da soporte 
 - **Report a security vulnerability:** https://tidelift.com/docs/security
     
 
-## [Estructura de Datos en Pandas (semana 4: sábado 20 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana04)
+## [Semana 4: Estructura de Datos en Pandas (sábado 20 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana04)
 
 
 En esta clase aprenderemos hacer análisis de datos, utilizando una librería llamada Pandas que proporciona unas estructuras de datos flexibles y que permiten trabajar con ellos de forma muy eficiente.
