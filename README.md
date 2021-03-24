@@ -47,8 +47,9 @@ Conoceremos un lenguaje de programación que viene con
 
 Continuemos nuestros primeros pasos con python
 
-* Estructuras de datos.  Listas!
-* Funciones propias, como print(), type()
+* Operaciones entre variables (texto).
+* Aprenderemos sobre la importancia de prestar atención a los mensajes de error.
+* Vamos a aprender sobre Listas, Loops (for, while) y condicionales.
 
 
 ## [Semana 3: Estructuras de Datos Numpy (sábado 13 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana03)
