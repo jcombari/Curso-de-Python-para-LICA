@@ -82,7 +82,7 @@ En esta clase aprenderemos hacer análisis de datos, utilizando una librería ll
 
 * [Quickstart tutorial](https://pypi.org/project/pandas/)
 
-## Semana de repaso (sábado 27 de marzo de 2021)
+## [Semana de repaso (sábado 27 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana04B)
 
 En esta semana no numerada, vamos a realizar una revisión de las 4 primeras clases.
 
