@@ -88,7 +88,7 @@ En esta clase aprenderemos hacer análisis de datos, utilizando una librería ll
 
 En esta semana no numerada, vamos a realizar una revisión de las 4 primeras clases.
 
-## Semana de integración (sábado 10 de abril de 2021)
+## [Semana de integración (sábado 10 de abril de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana04C)
 
 En esta semana no numerada, vamos a realizar un ejercicio de integración de la mano con Lica.
 
