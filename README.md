@@ -95,7 +95,9 @@ En esta semana no numerada, vamos a realizar un ejercicio de integración de la 
 
 ## [Semana 5: Estadística en Pandas (sábado 17 de abril de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana05)
 
-Aprenderemos a trabajar valores nulos, valores no nulos , medidas de tendencia central y distribución percentílica.
+Aprenderemos a trabajar valores nulos, valores no nulos , medidas de tendencia central y el módulo [pandas-profiling](https://pypi.org/project/pandas-profiling/).
+
+Pandas profiling es un módulo open source de Python con el que podemos hacer rápidamente un análisis exploratorio de datos con solo unas pocas líneas de código. ... En resumen, lo que hace pandas profiling es ahorrarnos todo el trabajo de visualizar y entender la distribución de cada variable.
 
 ## [Semana 6: Matplotlib-Seaborn](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana06)
 
