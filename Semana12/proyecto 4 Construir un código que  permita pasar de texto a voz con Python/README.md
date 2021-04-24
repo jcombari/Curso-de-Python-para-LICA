@@ -1,6 +1,6 @@
 # APLICACIONES-PYTHON
 
-##  El objetivo de este proyecto es crear una aplicaciones que permita Pasar de texto a voz con Python (Código)
+##  El objetivo de este proyecto es crear una aplicación que permita Pasar de texto a voz con Python (Código)
 
 Integrantes:
 
