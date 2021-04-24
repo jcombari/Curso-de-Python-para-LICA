@@ -6,7 +6,7 @@ Integrantes:
 
 * <b> Daniel Espinoza </b>
 
-* Juan Trejos
+* Santiago Nuñez
 
 ## Material de apoyo
 
