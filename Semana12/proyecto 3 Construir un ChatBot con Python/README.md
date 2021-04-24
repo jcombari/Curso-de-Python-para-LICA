@@ -4,9 +4,9 @@
 
 Integrantes:
 
-* <b> Jhon Chinome </b>
+* <b> Juan Trejos </b>
 
-* Juan Trejos
+* Jhon Chinome
 
 
 
