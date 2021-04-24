@@ -5,7 +5,7 @@ El objetivo de este proyecto es crear una aplicaciones que permita obtener una c
 Integrantes:
 
 * <b> Rafael Parga </b>
-* Guillermo Cruz
+* Daniela Barrera
 
 ## Link de referencia
 
