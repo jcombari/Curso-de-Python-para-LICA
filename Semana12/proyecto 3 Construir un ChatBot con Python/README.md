@@ -6,9 +6,9 @@ Integrantes:
 
 * <b> Jhon Chinome </b>
 
-* Daniela Barrera
+* Juan Trejos
 
-* Santiago Nuñez
+
 
 ## Material de apoyo
 * [Link de referencia](https://inteligencia-artificial.dev/chatbot-python-codigo/) 
