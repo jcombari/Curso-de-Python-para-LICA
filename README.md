@@ -117,6 +117,14 @@ Seaborn es una biblioteca de visualización de datos de Python basada en matplot
 En esta semana resolveremos el primer examen del curso. \
 Definimos los equipos, tanto para resolver el examen como para hacer el proyecto final en la semana12.
 
+Descripción del examen:
+* El examen consta de 20 preguntas.
+* Las preguntas  1 a la 10 valen 1 punto.
+* Las preguntas 11 a la 20 valen dos puntos.
+* Trabajar en equipo vale 10 puntos.
+* Puntuación total del examen 40 puntos.
+
+
 
 ## [Semana 7: Transformación de Datos con Pandas](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana07)
 
