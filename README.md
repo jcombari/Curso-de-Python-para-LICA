@@ -113,6 +113,11 @@ Seaborn es una biblioteca de visualización de datos de Python basada en matplot
 
 * [Quickstart tutorial](https://seaborn.pydata.org/)
 
+## [Semana de Evaluación](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana06B)
+En esta semana resolveremos el primer examen del curso. \
+Definimos los equipos, tanto para resolver el examen como para hacer el proyecto final en la semana12.
+
+
 ## [Semana 7: Transformación de Datos con Pandas](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana07)
 
 Aprenderemos a manipular los DataFrame en Pandas, seleccionar datos,  uso de la funcion apply, drop, contruir dataframe "a mano", concatenar dataframe, Join DataFrames, entre muchas otras cosas...
