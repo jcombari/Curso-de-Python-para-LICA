@@ -32,6 +32,8 @@ En este curso aprenderás sobre
 
 ## [Semana 1: Introducción a Python (sábado 27 de febrero de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana01)
 
+## [Semana 2: Introducción a Python (sábado 27 de febrero de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana02)
+
 - **Fácil de usar**
 - **Rápido y eficiente**
 - **Gran comunidad online**
@@ -43,7 +45,7 @@ Conoceremos un lenguaje de programación que viene con
 * Estructuras de datos.  Listas!
 * Funciones propias, como print(), type()
 
-## [Semana 2: Introducción a Python (sábado 06 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana02)
+## [Semana 3: Introducción a Python (sábado 06 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana03)
 
 Continuemos nuestros primeros pasos con python
 
@@ -52,7 +54,7 @@ Continuemos nuestros primeros pasos con python
 * Vamos a aprender sobre Listas, Loops (for, while) y condicionales.
 
 
-## [Semana 3: Estructuras de Datos Numpy (sábado 13 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana03)
+## [Semana 4: Estructuras de Datos Numpy (sábado 13 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana04)
 
 Esta semana comenzaremos revisando la librería [Numpy](https://es.wikipedia.org/wiki/NumPy), que nos facilita bastante la vida.
 
@@ -74,7 +76,7 @@ NumPy es una biblioteca para el lenguaje de programación Python que da soporte 
 - **Report a security vulnerability:** https://tidelift.com/docs/security
     
 
-## [Semana 4: Estructura de Datos en Pandas (sábado 20 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana04)
+## [Semana 5: Estructura de Datos en Pandas (sábado 20 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana05)
 
 
 En esta clase aprenderemos hacer análisis de datos, utilizando una librería llamada Pandas que proporciona unas estructuras de datos flexibles y que permiten trabajar con ellos de forma muy eficiente.
@@ -85,21 +87,21 @@ En esta clase aprenderemos hacer análisis de datos, utilizando una librería ll
 
 * [Repositorio Github](https://github.com/pandas-dev/pandas)
 
-## [Semana de repaso (sábado 27 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana04B)
+## [Semana 6: repaso cuatro primeras clases (sábado 27 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana06)
 
 En esta semana no numerada, vamos a realizar una revisión de las 4 primeras clases.
 
-## [Semana de integración (sábado 10 de abril de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana04C)
+## [Semana 7: actividad de integración (sábado 10 de abril de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana07)
 
 En esta semana no numerada, vamos a realizar un ejercicio de integración de la mano con Lica.
 
-## [Semana 5: Estadística en Pandas (sábado 17 de abril de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana05)
+## [Semana 8: Estadística en Pandas (sábado 17 de abril de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana08)
 
 Aprenderemos a trabajar valores nulos, valores no nulos , medidas de tendencia central y el módulo [pandas-profiling](https://pypi.org/project/pandas-profiling/).
 
 Pandas profiling es un módulo open source de Python con el que podemos hacer rápidamente un análisis exploratorio de datos con solo unas pocas líneas de código. ... En resumen, lo que hace pandas profiling es ahorrarnos todo el trabajo de visualizar y entender la distribución de cada variable.
 
-## [Semana 6: Matplotlib-Seaborn](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana06)
+## [Semana 9: Matplotlib-Seaborn](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana09)
 
 Ya haz aprendido a analizar datos, ahora vamos a visualizarlos!, Matplotlib será la primera de las librerías que utilizaremos para este fin...
 
@@ -113,9 +115,8 @@ Seaborn es una biblioteca de visualización de datos de Python basada en matplot
 
 * [Quickstart tutorial](https://seaborn.pydata.org/)
 
-## [Semana de Evaluación](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana06B)
+## [Semana 10 de Evaluación](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana10)
 En esta semana resolveremos el primer examen del curso. \
-Definimos los equipos, tanto para resolver el examen como para hacer el proyecto final en la semana12.
 
 Descripción del examen:
 * El examen consta de 20 preguntas.
@@ -124,44 +125,5 @@ Descripción del examen:
 * Trabajar en equipo vale 10 puntos.
 * Puntuación total del examen 40 puntos.
 
-
-
-## [Semana 7: Transformación de Datos con Pandas](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana07)
-
-Aprenderemos a manipular los DataFrame en Pandas, seleccionar datos,  uso de la funcion apply, drop, contruir dataframe "a mano", concatenar dataframe, Join DataFrames, entre muchas otras cosas...
-
-## [Semana 8: Funciones](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana08)
-
-Aprenderemos a utilizar funciones para automatizar muchas de las actividades que hemos desarrollado hasta ahora...
-
-Para esto es fundamental aprender la sintaxis básica de las funciones en python:
-
-```
-def nombre(parámetros):
-    instrucciones de la función
-    return(opcional)
-```
-
-## [Semana 9: Transformación de Datos con Scikit-Learn](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana09)
-
-En esta clase  aprenderemos a implementar un modelo de Regresión Lineal, y analizaremos sus parámetros básicos...
-
-[Scikit-learn](https://sklearn.org/) es una biblioteca para aprendizaje automático de software libre para el lenguaje de programación Python.1​Incluye varios algoritmos de clasificación, regresión y análisis de grupos entre los cuales están máquinas de vectores de soporte, bosques aleatorios, Gradient boosting, K-means y DBSCAN. Está diseñada para interoperar con las bibliotecas numéricas y científicas NumPy y SciPy.
-
-
-## [Semana 10: Transformación de Datos con Scikit-Learn parte 2](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana10)
-
-En esta clase  aprenderemos a implementar un modelo de Regresión Lineal, y analizaremos sus parámetros básicos...
-
-[Scikit-learn](https://sklearn.org/) es una biblioteca para aprendizaje automático de software libre para el lenguaje de programación Python.1​Incluye varios algoritmos de clasificación, regresión y análisis de grupos entre los cuales están máquinas de vectores de soporte, bosques aleatorios, Gradient boosting, K-means y DBSCAN. Está diseñada para interoperar con las bibliotecas numéricas y científicas NumPy y SciPy.
-
-
-## [Semana 11: Cálculo simbólico con Sympy](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana11)
-
-Repasaremos algunos ejercicios de ecuaciones del álgebra de Baldor.
-
-[SymPy](https://es.wikipedia.org/wiki/SymPy) es una biblioteca escrita en Python cuyo objetivo es reunir todas las características de un sistema de álgebra computacional (CAS), ser fácilmente extensible y mantener el código todo lo simple que sea posible. SymPy no requiere ninguna biblioteca externa, salvo para soporte gráfico.
-
-## [Semana 12: Presentación de proyectos](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana12)
-
-En esta semana los participantes presentaran los proyectos asignados.
+## [Semana 11 de Evaluación](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana11)
+Resolución y revisión del examen. \
