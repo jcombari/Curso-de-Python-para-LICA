@@ -103,7 +103,7 @@ Aprenderemos a trabajar valores nulos, valores no nulos , medidas de tendencia c
 
 Pandas profiling es un módulo open source de Python con el que podemos hacer rápidamente un análisis exploratorio de datos con solo unas pocas líneas de código. ... En resumen, lo que hace pandas profiling es ahorrarnos todo el trabajo de visualizar y entender la distribución de cada variable.
 
-## [Semana 9: Matplotlib-Seaborn](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana09)
+## [Semana 9: Matplotlib-Seaborn (sábado 24 de abril de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana09)
 
 Ya haz aprendido a analizar datos, ahora vamos a visualizarlos!, Matplotlib será la primera de las librerías que utilizaremos para este fin...
 
@@ -117,9 +117,9 @@ Seaborn es una biblioteca de visualización de datos de Python basada en matplot
 
 * [Quickstart tutorial](https://seaborn.pydata.org/)
 
-## [Semana 10 de Evaluación](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana10)
+## [Semana 10 de Evaluación (Fin de semana del 30 de abril de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana10)
 En esta semana resolveremos el primer examen del curso. \
-
+El examen se enviará por correo el jueves 29 de abril de 2021 en la tarde y se entrega el lunes 3 de mayo de 2021. \
 Descripción del examen:
 * El examen consta de 20 preguntas.
 * Las preguntas  1 a la 10 valen 1 punto.
@@ -127,8 +127,8 @@ Descripción del examen:
 * Trabajar en equipo vale 10 puntos.
 * Puntuación total del examen 40 puntos.
 
-## [Semana 11 de Evaluación](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana11)
-Resolución y explicación del examen. \
+## [Semana 11 de Evaluación (Sábado 15 de mayo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana11)
+Resolución y explicación del [examen](https://github.com/jcombari/Curso-de-Python-para-LICA/blob/main/Semana11/Examen%20Lica%20Viernes%2030%20de%20abril%20de%202021_respuesta.ipynb). 
 
 ## [Semana 12 cierre de curso](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana12)
 Esta semana se da cierre al curso
