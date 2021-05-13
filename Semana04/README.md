@@ -1,4 +1,4 @@
-# Semana 3 Estructuras de Datos Numpy - Sábado 13 de marzo de 2020
+# Semana 4 Estructuras de Datos Numpy - Sábado 13 de marzo de 2020
 
 
 Esta semana comenzaremos revisando la librería [Numpy](https://es.wikipedia.org/wiki/NumPy), que nos facilita bastante la vida.
