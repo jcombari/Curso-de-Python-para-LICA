@@ -1,3 +1,3 @@
-# Semana 7 Transformación de Datos con Pandas
+## Semana de integración (sábado 10 de abril de 2021)
 
-Aprenderemos a manipular los DataFrame en Pandas, seleccionar datos, uso de la funcion apply, drop, contruir dataframe "a mano", concatenar dataframe, Join DataFrames, entre muchas otras cosas...
+En esta semana no numerada, vamos a realizar un ejercicio de integración de la mano con Lica.

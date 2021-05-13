@@ -1,12 +1,5 @@
-# Semana 8 Funciones
+# Semana 5 Estadística en Pandas -  - Sábado 17 de abril de 2020
 
-Aprenderemos a utilizar funciones para automatizar muchas de las actividades que hemos desarrollado hasta ahora...
 
-Para esto es fundamental aprender la sintaxis básica de las funciones en python:
-
-```
-def nombre(parámetros):
-    instrucciones de la función
-    return(opcional)
-```
+Aprenderemos a trabajar valores nulos, valores no nulos , medidas de tendencia central y distribución percentílica.
 

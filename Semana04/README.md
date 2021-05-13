@@ -1,8 +1,22 @@
-# Semana 4 Estructura de Datos en Pandas - Sábado 20 de marzo de 2020
+# Semana 3 Estructuras de Datos Numpy - Sábado 13 de marzo de 2020
 
 
-En esta clase aprenderemos hacer análisis de datos, utilizando una librería llamada Pandas que proporciona unas estructuras de datos flexibles y que permiten trabajar con ellos de forma muy eficiente.
+Esta semana comenzaremos revisando la librería [Numpy](https://es.wikipedia.org/wiki/NumPy), que nos facilita bastante la vida.
 
-[Pandas](https://es.wikipedia.org/wiki/Pandas) es una biblioteca de software escrita como extensión de NumPy para manipulación y análisis de datos para el lenguaje de programación Python. En particular, ofrece estructuras de datos y operaciones para manipular tablas numéricas y series temporales. El nombre deriva del término "datos de panel", término de econometría que designa datos que combinan una dimensión temporal con otra dimensión transversal.
+¿Por qué usar NumPy?
 
-* [Quickstart tutorial](https://pypi.org/project/pandas/)
+* Para trabajar con arreglos.
+* Para Ordenar los miembros de un arreglo.
+* Para realizar Operaciones matemáticas y lógicas.
+* Operaciones estadísticas y de álgebra lineal.
+
+NumPy es una biblioteca para el lenguaje de programación Python que da soporte para crear vectores y matrices grandes multidimensionales, junto con una gran colección de funciones matemáticas de alto nivel para operar con ellas. El precursor de NumPy, Numeric, fue creado originalmente por Jim Hugunin con contribuciones de varios otros desarrolladores. En 2005, Travis Oliphant creó NumPy incorporando características de la competencia Numarray en Numeric, con amplias modificaciones. NumPy es un software de código abierto y cuenta con muchos colaboradores.
+
+- **Website:** https://www.numpy.org
+- **Documentation:** https://numpy.org/doc
+- **Mailing list:** https://mail.python.org/mailman/listinfo/numpy-discussion
+- **Source code:** https://github.com/numpy/numpy
+- **Contributing:** https://www.numpy.org/devdocs/dev/index.html
+- **Bug reports:** https://github.com/numpy/numpy/issues
+- **Report a security vulnerability:** https://tidelift.com/docs/security
+   
