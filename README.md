@@ -126,4 +126,7 @@ Descripción del examen:
 * Puntuación total del examen 40 puntos.
 
 ## [Semana 11 de Evaluación](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana11)
-Resolución y revisión del examen. \
+Resolución y explicación del examen. \
+
+## [Semana 12 cierre de curso](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana12)
+Esta semana se da cierre al curso
