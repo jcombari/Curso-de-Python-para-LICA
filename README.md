@@ -91,11 +91,11 @@ En esta clase aprenderemos hacer análisis de datos, utilizando una librería ll
 
 ## [Semana 6: repaso cuatro primeras clases (sábado 27 de marzo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana06)
 
-En esta semana no numerada, vamos a realizar una revisión de las 4 primeras clases.
+En esta semana vamos a realizar una revisión de las 4 primeras clases.
 
 ## [Semana 7: actividad de integración (sábado 10 de abril de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana07)
 
-En esta semana no numerada, vamos a realizar un ejercicio de integración de la mano con Lica.
+En esta semana vamos a realizar un ejercicio de integración de la mano con Lica.
 
 ## [Semana 8: Estadística en Pandas (sábado 17 de abril de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana08)
 
@@ -131,4 +131,5 @@ Descripción del examen:
 Resolución y explicación del [examen](https://github.com/jcombari/Curso-de-Python-para-LICA/blob/main/Semana11/Examen%20Lica%20Viernes%2030%20de%20abril%20de%202021_respuesta.ipynb). 
 
 ## [Semana 12 cierre de curso (sábado 22 de mayo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana12)
-Esta semana se da cierre al curso
+
+Cierre de curso y certificados.
