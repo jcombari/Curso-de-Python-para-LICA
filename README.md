@@ -127,8 +127,8 @@ Descripción del examen:
 * Trabajar en equipo vale 10 puntos.
 * Puntuación total del examen 40 puntos.
 
-## [Semana 11 de Evaluación (Sábado 15 de mayo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana11)
+## [Semana 11 de Evaluación (sábado 15 de mayo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana11)
 Resolución y explicación del [examen](https://github.com/jcombari/Curso-de-Python-para-LICA/blob/main/Semana11/Examen%20Lica%20Viernes%2030%20de%20abril%20de%202021_respuesta.ipynb). 
 
-## [Semana 12 cierre de curso](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana12)
+## [Semana 12 cierre de curso (sábado 22 de mayo de 2021)](https://github.com/jcombari/Curso-de-Python-para-LICA/tree/main/Semana12)
 Esta semana se da cierre al curso
