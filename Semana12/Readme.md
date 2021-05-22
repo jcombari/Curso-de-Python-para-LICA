@@ -39,10 +39,10 @@ El **contenido programático** del curso es el siguiente:
 
 ## 4. Entrada de datos y visualización - Matplotlib y Pandas
  * Figuras, Subplots y  Axes .
+ * Análisis de los siguientes tipos de gráficos: Scatter Plots y Histogramas.
  * Componentes interactivos (Widgets).
- * Scatter Plots, Histogramas.
  
 ## 5. Entrada de datos y visualización - Seaborn y Pandas
  * Comparación con Matplotlib: Scatter Plots e Histogramas
- * Análisis de Categorical Plots, Boxplot, Jointplot, Distplot, Pairplot y Heatmaps. 
+ * Análisis de los siguientes tipos de gráficos: Categorical Plots, Boxplot, Jointplot, Distplot, Pairplot y Heatmaps. 
 
