@@ -18,5 +18,21 @@ El contenido del curso es el siguiente:
   * Diferencia entre arreglos de forma  -shape- (n,), (n,1) y (1,n).
   * Revisión de homogeneidad de tipo, tamaño fijo en el momento de la creación y eficiencia.
  3. Biblioteca Pandas:
-  * 
+ * Introducción a las estructuras de datos de pandas.
+ * Creación de series y dataframes.
+ * Inspección de series y dataframes.
+ * El método head.
+ * El método tail
+ * El método describe
+ * El método info
+ * El método value_counts
+ * Selección de datos
+ * Importar datos a partir de archivos planos.
+ * Edición de series y dataframes
+ * Unión de series y dataframes
+ * Operaciones con estructuras pandas
+ * Reindexación
+ * Ordenación y clasificación
+ * Gestión de valores nulos
+4.- Herramientas de visualización
 
