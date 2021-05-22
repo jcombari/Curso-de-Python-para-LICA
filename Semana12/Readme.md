@@ -42,5 +42,8 @@ El contenido del curso es el siguiente:
  * Componentes interactivos (Widgets).
  * Scatter Plots, Histogramas.
 
-
+## 5. Entrada de datos y visualización - Seaborn y Pandas
+ * Comparación con Matplotlib.
+ * Scatter Plots, Histogramas
+ * Categorical Plots, Boxplot, Jointplot, Distplot, Pairplot y Heatmaps. 
 
