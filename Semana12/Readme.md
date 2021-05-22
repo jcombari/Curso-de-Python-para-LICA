@@ -33,6 +33,11 @@ El contenido del curso es el siguiente:
  * Operaciones con estructuras pandas
  * Reindexación
  * Ordenación y clasificación
- * Gestión de valores nulos
-4.- Herramientas de visualización
+ * Gestión de valores nulos e imputación de datos.
+4.- Entrada de datos y visualización - Matplotlib y Pandas
+ * Figuras, Subplots y  Axes .
+ * Componentes interactivos (Widgets).
+ * Scatter Plots, Histogramas.
+
+
 
