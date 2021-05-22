@@ -1,6 +1,6 @@
 # Certificados
 
-En esta carpeta van a estar los certificados del curso de Python dictado en alianza con la Liga Colombiana de Autismo. 
+En esta carpeta van a estar los certificados del curso de Python dictado en alianza con la [Liga Colombiana de Autismo](https://ligautismo.org/). 
 
 El curso se dictó de forma virtual y síncronica, desde el sábado 20 de febrero de 2021 hasta el sábado 22 de mayo de 2021 para un total de 30 horas académicas.
 
@@ -43,7 +43,6 @@ El contenido del curso es el siguiente:
  * Scatter Plots, Histogramas.
  
 ## 5. Entrada de datos y visualización - Seaborn y Pandas
- * Comparación con Matplotlib.
- * Scatter Plots, Histogramas
- * Categorical Plots, Boxplot, Jointplot, Distplot, Pairplot y Heatmaps. 
+ * Comparación con Matplotlib: Scatter Plots e Histogramas
+ * Análisis de Categorical Plots, Boxplot, Jointplot, Distplot, Pairplot y Heatmaps. 
 
