@@ -1,8 +1,8 @@
 # Certificados
 
-En esta carpeta van a estar los certificados del curso de Python dictado en alianza con la [Liga Colombiana de Autismo](https://ligautismo.org/). 
+En esta carpeta van a estar los certificados del **curso básico de Python** dictado en alianza con la [Liga Colombiana de Autismo](https://ligautismo.org/). 
 
-El curso se dictó de forma virtual y síncronica, desde el sábado 20 de febrero de 2021 hasta el sábado 22 de mayo de 2021 para un total de 30 horas académicas.
+El **curso básico de Python** se dictó de forma virtual y síncronica, desde el sábado 20 de febrero de 2021 hasta el sábado 22 de mayo de 2021 para un total de 30 horas académicas.
 
 El **contenido programático** del curso es el siguiente:
 
