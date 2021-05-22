@@ -14,8 +14,8 @@ El contenido del curso es el siguiente:
 
 ## 2. Biblioteca NumPy:
   * Definición de array.
-  * Operaciones se pueden hacer tanto en un arreglo de Numpy como en una lista.
-  * Operaciones se pueden hacer tanto en un arreglo de Numpy pero no en una lista.
+  * Operaciones que se pueden hacer tanto en un arreglo de Numpy como en una lista.
+  * Operaciones que se pueden hacer tanto en un arreglo de Numpy pero no en una lista.
   * Diferencia entre arreglos de forma  -shape- (n,), (n,1) y (1,n).
   * Revisión de homogeneidad de tipo, tamaño fijo en el momento de la creación y eficiencia.
 
