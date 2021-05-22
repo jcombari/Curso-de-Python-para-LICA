@@ -4,7 +4,7 @@ En esta carpeta van a estar los certificados del curso de Python dictado en alia
 
 El curso se dictó de forma virtual y síncronica, desde el sábado 20 de febrero de 2021 hasta el sábado 22 de mayo de 2021 para un total de 30 horas académicas.
 
-El contenido del curso es el siguiente:
+El **contenido programático** del curso es el siguiente:
 
 ## 1. Conceptos básicos: 
   * Variables, Tipos de Datos y Operaciones.
